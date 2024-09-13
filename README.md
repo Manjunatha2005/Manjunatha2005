@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manjunatha2005
+- 👋 Hi, I’m @Manjunatha
 - 👀 I’m interested in Coding and network
 - 🌱 I’m currently learning CSE (AIML)
 - 💞️ I’m looking to collaborate on 
